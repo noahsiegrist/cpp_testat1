@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/astro.dir/src/main.cpp.o -o /home/noah/Projects/fhnw/prcpp/Uebung1/source/bin/astro  libastro_lib.a 

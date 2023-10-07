@@ -1,0 +1,5 @@
+if(EXISTS "/home/noah/Projects/fhnw/prcpp/Uebung1/source/cmake-build-debug/astro_test[1]_tests.cmake")
+  include("/home/noah/Projects/fhnw/prcpp/Uebung1/source/cmake-build-debug/astro_test[1]_tests.cmake")
+else()
+  add_test(astro_test_NOT_BUILT astro_test_NOT_BUILT)
+endif()

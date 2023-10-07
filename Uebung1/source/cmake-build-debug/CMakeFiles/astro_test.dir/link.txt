@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/astro_test.dir/test/utils.cpp.o CMakeFiles/astro_test.dir/test/test_task1.cpp.o CMakeFiles/astro_test.dir/test/test_task2.cpp.o CMakeFiles/astro_test.dir/test/test_task3.cpp.o CMakeFiles/astro_test.dir/test/test_task4.cpp.o -o /home/noah/Projects/fhnw/prcpp/Uebung1/source/bin/astro_test  libastro_lib.a lib/libgtest_main.a lib/libgtest.a 

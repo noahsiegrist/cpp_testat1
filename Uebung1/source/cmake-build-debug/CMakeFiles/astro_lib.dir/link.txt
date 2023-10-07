@@ -1,0 +1,2 @@
+/usr/bin/ar qc libastro_lib.a CMakeFiles/astro_lib.dir/src/image.cpp.o CMakeFiles/astro_lib.dir/src/histogram.cpp.o CMakeFiles/astro_lib.dir/src/filter.cpp.o
+/usr/bin/ranlib libastro_lib.a
